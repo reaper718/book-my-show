@@ -24,7 +24,7 @@ return (
    <div className="flex items-center w-1/2">
       <div className="w-12 h-12">
          <img
-            src="https://in.bmscdn.com/webin/common/icons/logo.svg"
+            src="https://techviral.net/wp-content/uploads/2021/11/Winamp-Media-Player-coming-back.jpg"
             alt="logo"
             className="w-full h-full" />
       </div>

@@ -33,7 +33,7 @@ return (
    <div className="flex items-center w-1/2">
       <div className="w-12 h-12">
          <img
-            src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Faisackparrafans%2Fart%2FBookMyShow-Logo-924439420&psig=AOvVaw033_DLZq7ENMmBbxGV4FLa&ust=1682235840670000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJDMpJ__vP4CFQAAAAAdAAAAABAE"
+            src="https://techviral.net/wp-content/uploads/2021/11/Winamp-Media-Player-coming-back.jpg"
             alt="logo"
             className="w-full h-full" />
       </div>
